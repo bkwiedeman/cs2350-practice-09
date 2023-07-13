@@ -1,3 +1,12 @@
 /* Your styles go here */
 @import url("bootstrap/dist/css/bootstrap.min.css");
 @import url("bootstrap-icons/font/bootstrap-icons.css");
+
+h1 {
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+
+.col-md-6.featured {
+    border: 1px dashed red;
+}
